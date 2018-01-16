@@ -1,0 +1,25 @@
+body{
+  background: url(images/smokeback.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: right top;
+background-attachment: fixed;
+}
+
+
+
+h1{
+	font-family: 'Kanit', sans-serif, bold;
+	font-size: 50px;
+	text-align: center;
+}
+
+.entry{
+	width:68%;
+	padding:15px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	margin: 0 auto;
+	background-color: rgba(250, 246, 246, 0.7);
+
+}
